@@ -49,9 +49,9 @@ My approach blends data visualization with journalistic storytelling, creating a
 Engage with compelling visualizations that tell the story of Apple's carbon neutrality journey:
 
 1. **Emissions Over Time**: A dynamic chart tracing Apple's greenhouse gas emissions from 2015 to 2022.
-<img src="https://github.com/AmirFARES/Apple-Carbon-Neutral-Progress-Visualization/blob/main/imgs/line%20chart.png" alt="Line Chart" width="600" height="370">
+<img src="https://github.com/AmirFARES/Apple-Carbon-Neutral-Progress-Visualization/blob/main/imgs/line%20chart.png" alt="Line Chart" width="500" height="308">
 2. **Scope Breakdown**: Visuals breaking down emissions by scopes for a comprehensive understanding.
-<img src="https://github.com/AmirFARES/Apple-Carbon-Neutral-Progress-Visualization/blob/main/imgs/scopes.png" alt="Scopes" width="502" height="521">
+<img src="https://github.com/AmirFARES/Apple-Carbon-Neutral-Progress-Visualization/blob/main/imgs/scopes.png" alt="Scopes" width="400" height="415">
 3. **Product Life Cycle Impact**: Graphics showcasing the carbon footprint of iPhone models.
 <img src="https://github.com/AmirFARES/Apple-Carbon-Neutral-Progress-Visualization/blob/main/imgs/prodcts%20footprints.png" alt="Products footprints" width="500" height="375">
 4. **Strategic Decisions**: Illustrations of the impact of decisions like charger removal.
