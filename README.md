@@ -1,16 +1,18 @@
 # Maven Environmental Challenge: Tracking Apple's Carbon Neutrality Journey 🍏🌍
 
-![Project Image](https://image.sciencenorway.no/2175594.webp?imageId=2175594&width=960&height=548&format=jpg)
+![Project Image](https://github.com/AmirFARES/Apple-Carbon-Neutral-Progress-Visualization/edit/main/imgs/apple company.jpg)
 
 ## Introduction 🌟
 
 Welcome to my data visualization project for the Maven Environmental Challenge! In a world where sustainability is paramount, tech giant Apple has embarked on an ambitious mission: to achieve carbon neutrality by 2030. As an independent journalist and data visualization enthusiast, I invite you to explore Apple's journey through the lens of data-driven insights and compelling journalism.
 
-**[Link to My Submission](https://mavenanalytics.io/project/9352)**, **[My Tableau Viz](https://public.tableau.com/views/MavenEnvironmentalChallengeApplesGreenhouseGasEmissions/Page1?:language=en-US&:display_count=n&:origin=viz_share_link)**
+**[Link to My Submission](https://mavenanalytics.io/project/9352)**
+**[My Tableau Viz](https://public.tableau.com/views/MavenEnvironmentalChallengeApplesGreenhouseGasEmissions/Page1?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 ## About this Project 🌐
 
 In this challenge, I delve deep into Apple's commitment to reducing carbon emissions and its goal of carbon neutrality. Through innovative visualizations, journalistic storytelling, and data transparency, I aim to inform, inspire, and raise awareness about the importance of corporate sustainability.
+**[Link to The Challenge](https://mavenanalytics.io/project/9352)**
 
 ### Key Objectives 🎯
 
@@ -25,7 +27,7 @@ In this challenge, I delve deep into Apple's commitment to reducing carbon emiss
 
 To maintain accuracy, I rely exclusively on official Apple data from their Environmental Progress Reports. Key datasets include:
 
-- Greenhouse Gas Emissions
+- [**greenhouse_gas_emissions.csv**](./data/apple_emissions/greenhouse_gas_emissions.csv)
 - Carbon Footprint by Product
 - Normalizing Factors
 
