@@ -14,7 +14,7 @@ Welcome to my data visualization project for the Maven Environmental Challenge! 
 
 In this challenge, I delve deep into Apple's commitment to reducing carbon emissions and its goal of carbon neutrality. Through innovative visualizations, journalistic storytelling, and data transparency, I aim to inform, inspire, and raise awareness about the importance of corporate sustainability.
 
-**[Link to The Challenge](https://mavenanalytics.io/project/9352)**
+**[Link to The Challenge](https://mavenanalytics.io/challenges/maven-environmental-challenge/27)**
 
 ### Key Objectives 🎯
 
@@ -30,7 +30,7 @@ In this challenge, I delve deep into Apple's commitment to reducing carbon emiss
 To maintain accuracy, I rely exclusively on official Apple data from their Environmental Progress Reports. Key datasets include:
 
 - [**greenhouse_gas_emissions.csv**](./data/apple_emissions/greenhouse_gas_emissions.csv) - Contains data on Apple's greenhouse gas emissions from 2015 to 2022, categorized by source, scope, and type.
-- [**carbon_footprint_by_product**](./data/apple_emissions/carbon_footprint_by_product) - Includes data files detailing the carbon footprint of iPhone models released between 2015 and 2022.
+- [**carbon_footprint_by_product.csv**](./data/apple_emissions/carbon_footprint_by_product.csv) - Includes data files detailing the carbon footprint of iPhone models released between 2015 and 2022.
 - [**normalizing_factors.csv**](./data/apple_emissions/normalizing_factors.csv) - Provides supplementary data on Apple's revenue, market capitalization, and employee statistics during the same period as the emissions data.
 - [**normalizing_factors.csv**](./data/data_dictionary.csv) - Serves as documentation, describing the columns and variables used in the project's data files.
 
@@ -61,4 +61,17 @@ Apple's path to carbon neutrality is marked by complexity and innovation. Strate
 
 There's room for deeper analysis, comparative studies, exploration of consumer behavior, policy implications, and stakeholder engagement.
 
-I hope you find this project informative and inspiring. Let's work together for a greener future! 🌍🍏
+I hope you find this project informative and inspiring.
+
+## Connect with Me 📫
+
+Feel free to reach out for any project-related inquiries, collaboration opportunities, or discussions. You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or explore more of my data visualization projects on [GitHub](https://github.com/your-github-profile).
+
+## Acknowledgments 🙏
+
+I'd like to express my gratitude to the Maven Analytics Environmental Challenge for providing this opportunity to explore and visualize Apple's journey towards carbon neutrality. Special thanks to the challenge organizers for their support and guidance.
+
+Thank you for visiting my project repository, and I'm excited to share more data-driven insights in the future! 🌍🍏
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-f)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/AmirFARES)
